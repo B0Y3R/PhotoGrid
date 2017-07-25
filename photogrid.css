@@ -1,0 +1,21 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+
+}
+body {
+	background: url(http://wallpapercave.com/wp/02D3ZWP.jpg);
+}
+ 	
+h1{
+ 	color: #005050;
+ 	margin-left: 1.66%;
+ 	font size: 23px;
+ 	font-weight: 800;
+ 	border-bottom: 3px solid grey;
+ 	width: 30%;
+ 	padding-bottom: 20px;
+}
